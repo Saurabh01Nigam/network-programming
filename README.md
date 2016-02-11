@@ -1,2 +1,3 @@
 # network-programming
-code snippets used in network programming course
+Code snippets used in network programming course.
+Python and Node.js used.
